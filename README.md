@@ -1,7 +1,7 @@
 # 🌸 About Me:
 Design engineer working across design and code.<br>With 5 years in frontend, I bring a technical foundation into design.<br><br> 
 Design → Figma<br>
-Build → Next.js, Tailwind, shadcn<br>
+Build → Next.js, Tailwind, shadcn, Cloudflare, Vercel<br>
 Also working with Laravel + Inertia (React), Shopify e-commerce.
 
 
